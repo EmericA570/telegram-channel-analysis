@@ -1,0 +1,1 @@
+Small project to learn how to use FastAPI and React. The goal is to design a simple web-app to scrape open telegram channels.
