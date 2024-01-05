@@ -3,7 +3,7 @@ import logging
 import requests
 from bs4 import BeautifulSoup
 
-from osn_scrap.schemas import Message
+from backend.schemas import Message
 
 
 def extract_messages(response: requests.Response) -> list[Message]:
